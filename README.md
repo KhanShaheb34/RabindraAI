@@ -10,16 +10,16 @@ I have used a two layer LSTM (Long Short-term Memory) to create this text genera
 Have a look at some of the poems the AI generated:
 
 ### বাঁধা বাণী
-![poem-1](samples/1.png)
+![poem-1](1.png)
 
 ### দিনের প্রান্ত
-![poem-2](samples/2.png)
+![poem-2](2.png)
 
 ### সুরের দিন রাত
-![poem-3](samples/3.png)
+![poem-3](3.png)
 
 ### নিদ্রা
-![poem-4](samples/4.png)
+![poem-4](4.png)
 
 > কবিতার নাম গুলো আমার নিজের দেওয়া! 😂
 
