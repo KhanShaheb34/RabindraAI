@@ -5,6 +5,10 @@ Have a look at the code from [RabindraAI.ipynb](RabindraAI.ipynb).
 
 I have used a two layer LSTM (Long Short-term Memory) to create this text generator.
 
+## Contribution
+
+Can you propose other algorithms to tackle this challange?
+
 ## Generated Examples
 
 Have a look at some of the poems the AI generated:
